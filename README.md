@@ -1,14 +1,21 @@
 ### Hi there, I'm Adam, a Product Manager in Denver Colorado 👋
 
 - 🌱 I’m currently learning [AI Product Management](https://www.coursera.org/specializations/ai-product-management-duke)
-- 🧪 I'm currently testing / experimenting with
+- 🧪 I'm currently testing / experimenting with:
   - [GCP AutoML Tools](https://cloud.google.com/automl/)
+    - Quick Thoughts: it is difficult to stay within the resource limits of the free account. My model build failed 12 times while finding the resource settings that would fit 😆
   - [Kong API Gatway](https://konghq.com/products/kong-gateway)
   - [Linode Compute](https://www.linode.com/)
   - [OrbStack](https://orbstack.dev/)
   - [GoPro Quik](https://gopro.com/en/us/shop/quik-app-video-photo-editor)
   - [Whoop](https://www.whoop.com/us/en/)
 - 🚵 I enjoy gravel biking, hiking, and exploring the outdoors.
-- 📚 Recent Reads
+- 📚 Recent Reads:
   - [Murderbot Diaries](https://marthawells.com/murderbot.htm)
 - 😄 Pronouns: he/him
+- ⚡ Fun facts:
+  - 🖥️ First computers
+    - Home - [IBM PS/2 Model 25](https://en.wikipedia.org/wiki/IBM_PS/2_Model_25)
+    - School - [Apple IIe](https://en.wikipedia.org/wiki/Apple_IIe)
+  - 💾 First OS - MS-DOS 6.22
+  - First programming language - Apple BASIC 🤣
