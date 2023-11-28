@@ -10,6 +10,11 @@
   - [GoPro Quik](https://gopro.com/en/us/shop/quik-app-video-photo-editor)
   - [Whoop](https://www.whoop.com/us/en/)
 - 🚵 I enjoy gravel biking, hiking, and exploring the outdoors.
+  - Today I ride a [2021 Specialized Diverge Comp E5](https://www.specialized.com/us/en/diverge-comp-e5/p/199685?color=320086-199685)
+    - 2023 Upgrades
+      - Roval Terra CL Wheelset
+      - Cassette CS-M8000 XT 11-46
+      - Brake Rotors RT-CL800 160MM
 - 📚 Recent Reads:
   - [Murderbot Diaries](https://marthawells.com/murderbot.htm)
 - 😄 Pronouns: he/him
