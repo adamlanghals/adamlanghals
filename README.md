@@ -4,18 +4,28 @@
 - 🧪 I'm currently testing / experimenting with:
   - [GCP AutoML Tools](https://cloud.google.com/automl/)
     - Quick Thoughts: it is difficult to stay within the resource limits of the free account. My model build failed 12 times while finding the resource settings that would fit 😆
-  - [Kong API Gatway](https://konghq.com/products/kong-gateway)
   - [Linode Compute](https://www.linode.com/)
   - [OrbStack](https://orbstack.dev/)
   - [GoPro Quik](https://gopro.com/en/us/shop/quik-app-video-photo-editor)
   - [Whoop](https://www.whoop.com/us/en/)
+  - [Zwift](https://www.zwift.com/) - This is my first season of indoor virtual cycling
 - 🚵 I enjoy gravel biking, hiking, and exploring the outdoors.
-  - Today I ride a [2021 Specialized Diverge Comp E5](https://www.specialized.com/us/en/diverge-comp-e5/p/199685?color=320086-199685)
+  -  I ride a [2021 Specialized Diverge Comp E5](https://www.specialized.com/us/en/diverge-comp-e5/p/199685?color=320086-199685)
     - 2023 Upgrades
       - Roval Terra CL Wheelset
       - Cassette CS-M8000 XT 11-46
       - Brake Rotors RT-CL800 160MM
+    - Indoor Cycling Setup
+      - Wahoo Kickr Core
+      - Wahoo Kickr Climb
+      - Mac Mini M1
+      - 55" Amazon Fire TV
+    - 2024 Race Schedule
+      - Co2Ut
+      - Ned Gravel
+      - Steamboat Gravel
 - 📚 Recent Reads:
+  - 
   - [Murderbot Diaries](https://marthawells.com/murderbot.htm)
 - 😄 Pronouns: he/him
 - ⚡ Fun facts:
