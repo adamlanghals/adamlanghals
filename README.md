@@ -2,15 +2,11 @@
 
 - I'm working for Akamai on the [Linode Cloud Platform](https://www.linode.com/)
 - 🧪 I'm currently testing / experimenting with:
-  - [OrbStack](https://orbstack.dev/)
-  - [GoPro Quik](https://gopro.com/en/us/shop/quik-app-video-photo-editor)
-  - [Whoop](https://www.whoop.com/us/en/)
-  - [Zwift](https://www.zwift.com/) - This is my first season of indoor virtual cycling
+
 - 🚵 I enjoy gravel biking, hiking, and exploring the outdoors.
   -  I ride a [2021 Specialized Diverge Comp E5](https://www.specialized.com/us/en/diverge-comp-e5/p/199685?color=320086-199685)
-    - 2024 Race Schedule
+    - 2025 Race Schedule
       - Co2Ut
-      - Ned Gravel
       - Steamboat Gravel
     - 2024 Indoor Cycling Setup
       - Wahoo Kickr Core
@@ -18,12 +14,8 @@
       - Mac Mini M1
       - Zwift
       - 55" Amazon Fire TV
-    - 2023 Upgrades
-      - Roval Terra CL Wheelset
-      - Cassette CS-M8000 XT 11-46
-      - Brake Rotors RT-CL800 160MM
 - 📚 Recent Reads:
-  - [Murderbot Diaries](https://marthawells.com/murderbot.htm)
+
 - 😄 Pronouns: he/him
 - ⚡ Fun facts:
   - 🖥️ First computers
