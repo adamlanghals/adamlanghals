@@ -2,7 +2,7 @@
 
 - I'm working for Akamai on the [Linode Cloud Platform](https://www.linode.com/)
 - 🧪 I'm currently testing / experimenting with:
-
+  - AI assisted Product research, evaluations, opportunity refinements, requirements, and experimentations using combinations of Gemini, Copilot, and Claude.
 - 🚵 I enjoy gravel biking, hiking, and exploring the outdoors.
   -  I ride a [2021 Specialized Diverge Comp E5](https://www.specialized.com/us/en/diverge-comp-e5/p/199685?color=320086-199685)
     - 2025 Race Schedule
