@@ -1,6 +1,6 @@
 ### Hi there, I'm Adam, a Cloud Product Manager in Denver Colorado 👋
 
-- I'm working for Akamai on the [Linode Cloud Platform](https://www.linode.com/)
+- I'm working for ...
 - 🧪 I'm currently testing / experimenting with:
   - AI assisted Product research, evaluations, opportunity refinements, requirements, and experimentations using combinations of Gemini, Copilot, and Claude.
 - 🚵 I enjoy gravel biking, hiking, and exploring the outdoors.
